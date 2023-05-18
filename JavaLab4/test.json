@@ -1,0 +1,277 @@
+{
+  "faculties": [
+    {
+      "departments": [
+        {
+          "groups": [
+            {
+              "students": [
+                {
+                  "gradeBookNumber": "123456",
+                  "firstName": "FirstName",
+                  "lastName": "LastName",
+                  "middleName": "MiddleName",
+                  "gender": "FEMALE"
+                },
+                {
+                  "gradeBookNumber": "123456",
+                  "firstName": "FirstName",
+                  "lastName": "LastName",
+                  "middleName": "MiddleName",
+                  "gender": "FEMALE"
+                }
+              ],
+              "name": "GroupName",
+              "head": {
+                "firstName": "FirstName",
+                "lastName": "LastName",
+                "middleName": "MiddleName",
+                "gender": "FEMALE"
+              }
+            },
+            {
+              "students": [
+                {
+                  "gradeBookNumber": "123456",
+                  "firstName": "FirstName",
+                  "lastName": "LastName",
+                  "middleName": "MiddleName",
+                  "gender": "FEMALE"
+                },
+                {
+                  "gradeBookNumber": "123456",
+                  "firstName": "FirstName",
+                  "lastName": "LastName",
+                  "middleName": "MiddleName",
+                  "gender": "FEMALE"
+                }
+              ],
+              "name": "GroupName",
+              "head": {
+                "firstName": "FirstName",
+                "lastName": "LastName",
+                "middleName": "MiddleName",
+                "gender": "FEMALE"
+              }
+            }
+          ],
+          "name": "DepartmentName",
+          "head": {
+            "firstName": "FirstName",
+            "lastName": "LastName",
+            "middleName": "MiddleName",
+            "gender": "FEMALE"
+          }
+        },
+        {
+          "groups": [
+            {
+              "students": [
+                {
+                  "gradeBookNumber": "123456",
+                  "firstName": "FirstName",
+                  "lastName": "LastName",
+                  "middleName": "MiddleName",
+                  "gender": "FEMALE"
+                },
+                {
+                  "gradeBookNumber": "123456",
+                  "firstName": "FirstName",
+                  "lastName": "LastName",
+                  "middleName": "MiddleName",
+                  "gender": "FEMALE"
+                }
+              ],
+              "name": "GroupName",
+              "head": {
+                "firstName": "FirstName",
+                "lastName": "LastName",
+                "middleName": "MiddleName",
+                "gender": "FEMALE"
+              }
+            },
+            {
+              "students": [
+                {
+                  "gradeBookNumber": "123456",
+                  "firstName": "FirstName",
+                  "lastName": "LastName",
+                  "middleName": "MiddleName",
+                  "gender": "FEMALE"
+                },
+                {
+                  "gradeBookNumber": "123456",
+                  "firstName": "FirstName",
+                  "lastName": "LastName",
+                  "middleName": "MiddleName",
+                  "gender": "FEMALE"
+                }
+              ],
+              "name": "GroupName",
+              "head": {
+                "firstName": "FirstName",
+                "lastName": "LastName",
+                "middleName": "MiddleName",
+                "gender": "FEMALE"
+              }
+            }
+          ],
+          "name": "DepartmentName",
+          "head": {
+            "firstName": "FirstName",
+            "lastName": "LastName",
+            "middleName": "MiddleName",
+            "gender": "FEMALE"
+          }
+        }
+      ],
+      "name": "FacultyName",
+      "head": {
+        "firstName": "FirstName",
+        "lastName": "LastName",
+        "middleName": "MiddleName",
+        "gender": "FEMALE"
+      }
+    },
+    {
+      "departments": [
+        {
+          "groups": [
+            {
+              "students": [
+                {
+                  "gradeBookNumber": "123456",
+                  "firstName": "FirstName",
+                  "lastName": "LastName",
+                  "middleName": "MiddleName",
+                  "gender": "FEMALE"
+                },
+                {
+                  "gradeBookNumber": "123456",
+                  "firstName": "FirstName",
+                  "lastName": "LastName",
+                  "middleName": "MiddleName",
+                  "gender": "FEMALE"
+                }
+              ],
+              "name": "GroupName",
+              "head": {
+                "firstName": "FirstName",
+                "lastName": "LastName",
+                "middleName": "MiddleName",
+                "gender": "FEMALE"
+              }
+            },
+            {
+              "students": [
+                {
+                  "gradeBookNumber": "123456",
+                  "firstName": "FirstName",
+                  "lastName": "LastName",
+                  "middleName": "MiddleName",
+                  "gender": "FEMALE"
+                },
+                {
+                  "gradeBookNumber": "123456",
+                  "firstName": "FirstName",
+                  "lastName": "LastName",
+                  "middleName": "MiddleName",
+                  "gender": "FEMALE"
+                }
+              ],
+              "name": "GroupName",
+              "head": {
+                "firstName": "FirstName",
+                "lastName": "LastName",
+                "middleName": "MiddleName",
+                "gender": "FEMALE"
+              }
+            }
+          ],
+          "name": "DepartmentName",
+          "head": {
+            "firstName": "FirstName",
+            "lastName": "LastName",
+            "middleName": "MiddleName",
+            "gender": "FEMALE"
+          }
+        },
+        {
+          "groups": [
+            {
+              "students": [
+                {
+                  "gradeBookNumber": "123456",
+                  "firstName": "FirstName",
+                  "lastName": "LastName",
+                  "middleName": "MiddleName",
+                  "gender": "FEMALE"
+                },
+                {
+                  "gradeBookNumber": "123456",
+                  "firstName": "FirstName",
+                  "lastName": "LastName",
+                  "middleName": "MiddleName",
+                  "gender": "FEMALE"
+                }
+              ],
+              "name": "GroupName",
+              "head": {
+                "firstName": "FirstName",
+                "lastName": "LastName",
+                "middleName": "MiddleName",
+                "gender": "FEMALE"
+              }
+            },
+            {
+              "students": [
+                {
+                  "gradeBookNumber": "123456",
+                  "firstName": "FirstName",
+                  "lastName": "LastName",
+                  "middleName": "MiddleName",
+                  "gender": "FEMALE"
+                },
+                {
+                  "gradeBookNumber": "123456",
+                  "firstName": "FirstName",
+                  "lastName": "LastName",
+                  "middleName": "MiddleName",
+                  "gender": "FEMALE"
+                }
+              ],
+              "name": "GroupName",
+              "head": {
+                "firstName": "FirstName",
+                "lastName": "LastName",
+                "middleName": "MiddleName",
+                "gender": "FEMALE"
+              }
+            }
+          ],
+          "name": "DepartmentName",
+          "head": {
+            "firstName": "FirstName",
+            "lastName": "LastName",
+            "middleName": "MiddleName",
+            "gender": "FEMALE"
+          }
+        }
+      ],
+      "name": "FacultyName",
+      "head": {
+        "firstName": "FirstName",
+        "lastName": "LastName",
+        "middleName": "MiddleName",
+        "gender": "FEMALE"
+      }
+    }
+  ],
+  "name": "UniversityName",
+  "head": {
+    "firstName": "FirstName",
+    "lastName": "LastName",
+    "middleName": "MiddleName",
+    "gender": "FEMALE"
+  }
+}
